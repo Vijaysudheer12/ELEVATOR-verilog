@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Life/ELEVATOR/ELEVATOR.srcs/sources_1/new/elevator 5 floors.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module smartelevator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Life/ELEVATOR/ELEVATOR.srcs/sim_1/new/Elevator_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module smartelevator_tb
